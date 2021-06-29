@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#b8b8b8',
   },
   inputBox: {
-    marginTop: 60,
+    marginTop: 50,
     width: '80%',
     alignSelf: 'center',
     height: 55,
