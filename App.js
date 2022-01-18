@@ -98,9 +98,9 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     textAlign: 'center',
-    fontSize: 35,
-    fontWeight: 'bold',
-    color: "blue",
+    fontSize: 20,
+    //fontWeight: 'bold',
+    color: "red",
   },
   imageIcon: {
     width: 157,
