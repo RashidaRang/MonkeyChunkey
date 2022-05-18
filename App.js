@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#b8b8b8',
   },
   inputBox: {
-    marginTop: 11,
+    marginTop: 14,
     width: '70%',
     alignSelf: 'center',
     height: 10,
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     color: "red",
   },
   imageIcon: {
-    width: 157,
+    width: 155,
     height: 123,
     marginLeft: 110,
   }
