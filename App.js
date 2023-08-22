@@ -92,19 +92,19 @@ const styles = StyleSheet.create({
     width: '80%',
     height: 900,
     alignSelf: 'right',
-    padding: 20,
+    padding: 25,
     margin: 20,
     borderRadius:35
   },
   buttonText: {
     textAlign: 'center',
-    fontSize: 20,
+    fontSize: 25,
     //fontWeight: 'bold',
     color: "red",
   },
   imageIcon: {
     width: 155,
     height: 123,
-    marginLeft: 110,
+    marginLeft: 100,
   }
 });
